@@ -1,0 +1,15 @@
+C:\Users\nailt\Desktop\Nova pasta\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.exe
+C:\Users\nailt\Desktop\Nova pasta\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.deps.json
+C:\Users\nailt\Desktop\Nova pasta\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+C:\Users\nailt\Desktop\Nova pasta\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.dll
+C:\Users\nailt\Desktop\Nova pasta\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.pdb
+C:\Users\nailt\Desktop\Nova pasta\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+C:\Users\nailt\Desktop\Nova pasta\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nailt\Desktop\Nova pasta\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\nailt\Desktop\Nova pasta\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\nailt\Desktop\Nova pasta\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\nailt\Desktop\Nova pasta\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.dll
+C:\Users\nailt\Desktop\Nova pasta\trilha-net-poo-desafio\obj\Debug\net6.0\refint\DesafioPOO.dll
+C:\Users\nailt\Desktop\Nova pasta\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.pdb
+C:\Users\nailt\Desktop\Nova pasta\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\nailt\Desktop\Nova pasta\trilha-net-poo-desafio\obj\Debug\net6.0\ref\DesafioPOO.dll
